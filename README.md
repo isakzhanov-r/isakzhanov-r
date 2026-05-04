@@ -1,4 +1,4 @@
-## ## 👋 Hi, I'm Rustam
+## 👋 Hi, I'm Rustam
 
 > I'm a backend developer mostly working with PHP and Laravel.  
 Most of my work is around APIs, integrations, and maintaining existing systems — where it's important not to break things and evolve them carefully. 😊
